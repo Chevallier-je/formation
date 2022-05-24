@@ -1,4 +1,4 @@
 <?php 
-    $title = $contact['forname'];
-    $content = "<h1>".$contact['forname']." ".$contact['phone']."</h1>";
+    $title = $contact['name'];
+    $content = "<h1>".$contact['name']." ".$contact['phone']."</h1>";
     include "layout.php";

@@ -5,7 +5,7 @@
 // DRY: Don't Repeat Yourself
 function connectDB() {
     try {
-        $dbh = new PDO('mysql:host=localhost;dbname=jeremy', 'jeremy', 'jeremy');
+        $dbh = new PDO('mysql:host=localhost;dbname=formation', 'formation', 'formation');
         return $dbh;
     } catch (PDOException $e) {
         print "Erreur !: " . $e->getMessage() . "<br/>";

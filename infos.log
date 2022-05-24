@@ -1,0 +1,4 @@
+[2022-05-24T09:08:12.141524+00:00] my_logger.INFO:  a créé un pdf [] []
+[2022-05-24T09:13:09.544621+00:00] my_logger.INFO:  a créé un pdf [] []
+[2022-05-24T09:15:10.742554+00:00] my_logger.INFO: Pierre a créé un pdf [] []
+[2022-05-24T09:15:56.118284+00:00] my_logger.INFO: Pierre a créé un pdf [] []

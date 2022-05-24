@@ -1,0 +1,6 @@
+{
+    "require": {
+        "monolog/monolog": "^2.6",
+        "setasign/fpdf": "^1.8"
+    }
+}
